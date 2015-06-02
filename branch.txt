@@ -1,2 +1,2 @@
 this is first branch text to test branch function.
-this line on master.
+this line on master when merge.
